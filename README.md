@@ -20,7 +20,11 @@ All the data is stored in a JSON file. There are 5 fields in the file. An exampl
 The field details
 -------
 The "originalText" field holds the input information.
+
 The "entities" field holds the Named entity recognition information with Deep learning model. The tag of the entity follows the CCKS2019 Task1 standard:https://www.biendata.com/competition/ccks_2019_1/Evaluation/.
+
 The "seg_result" field holds the information after sentence segmentation.
+
 The "label_4class" field holds the manually annotated medical intent classification information.
+
 The "label_36class" field holds the manually annotated medical intent classification information.
