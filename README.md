@@ -42,7 +42,15 @@ label_36class is the secondary type that contains:
     治疗方案：方法，费用，有效时间，临床意义/检查目的，治疗时间，疗效，恢复时间，正常指标，化验/体检方案，恢复
     其他：设备用法，多问，养生，整容，两性，对比，无法确定
 
+Final Words
+======
+Thanks for using our corpus! Please don't forget to let us know if our dataset advance the current state of the art forward in your Chinese natural language processing task.
 
+Contacts
+======
+CMID cannot be used for projects other than scientific research. 
+
+Please contact us if necessary: cssxd@imu.edu.cn, liutongyang1995@gmail.com
     
 
 
