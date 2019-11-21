@@ -14,7 +14,7 @@ All the data is stored in a JSON file. There are 5 fields in the file. An exampl
      "entities": [{"label_type": "疾病和诊断", "start_pos": 0, "end_pos": 5}], 
      "seg_result": ["间质性肺炎", "的", "症状", "?"], 
      "label_4class": ["病症"], 
-     "label_36class": ["相关病症"]
+     "label_36class": ["临床表现"]
     }
 
 The JSON field details
